@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 zihad
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Md.Raysul Kobir
 
 [![](https://img.shields.io/badge/-@zuizihad-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/zuizihad)
 [![](https://img.shields.io/badge/-@zuizihad-%23181717?style=flat-square&logo=github)](https://github.com/zuizihad)
