@@ -1,9 +1,9 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Md.Raysul Kobir
 
-[![](https://img.shields.io/badge/-@Raysul-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://www.linkedin.com/in/md-raysul-kobir-425182217/)
-[![](https://img.shields.io/badge/-@zuizihad-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/zuizihad)
-[![](https://img.shields.io/badge/-@zuizihad-%23181717?style=flat-square&logo=github)](https://github.com/zuizihad)
-[![](https://img.shields.io/badge/-@zuizihad-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zuizihad)
+[![](https://img.shields.io/badge/-@Raysul kobir-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.linkedin.com/in/md-raysul-kobir-425182217/)
+[![](https://img.shields.io/badge/-@Raysul kobir-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/zuizihad)
+[![](https://img.shields.io/badge/-@Raysul kobir-%23181717?style=flat-square&logo=github)](https://github.com/zuizihad)
+[![](https://img.shields.io/badge/-@Raysul kobir-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zuizihad)
 
 
 𝑰 ❤️ Web Application Developer!
