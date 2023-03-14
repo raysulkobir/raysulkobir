@@ -62,9 +62,13 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
  
  ## Portfolio
-- <a href="https://www.volgabar.com/">Volgabar</a>
-- <a href="https://www.nagorikseba.com">Nagorikseba</a>
+- <a href="https://www.raysul.me">Raysul Me</a>
+- <a href="https://shop.rangs.com.bd">Rangs</a>
+- <a href="https://faceme.com.bd">Faceme</a>
 - <a href="https://www.dmslbd.com/">Dmslbd</a>
+- <a href="https://szefy.com/">Szefy</a>
+- <a href="http://www.graphicreign.com/">Graphicreign</a>
+- <a href="https://www.glamifield.com/">Glamifield</a>
 
 📊 **My recent programming status:**
  
