@@ -20,7 +20,7 @@
 
 ## Talking about Personal Stuffs:
 
-- 👨‍🏛 I'm currently a student at **European University of Bangladesh**.
+- 👨‍🏛 i'm complete BSC in CSS **European University of Bangladesh**.
 - 💻 Major is big Computer Science and technology.
 - 🌱 I'm currently learning **React And React Native and English**. 
 - 🤔 My hobbies are **skating and running**.
