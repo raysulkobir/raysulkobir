@@ -24,7 +24,6 @@
 - 💻 Major is big Computer Science and technology.
 - 🌱 I'm currently learning **React And React Native and English**. 
 - 🤔 My hobbies are **skating and running**.
-- 💼 I am an **obsessive-compulsive disorder**.
 - 💬 If you have any questions, **just ask me**.
 - 📫 Please contact me via email:
 - Or Gmail:raysulkobir97@gmail.com.
@@ -63,13 +62,17 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/w3c.svg"></code>
  
  ## Portfolio
-- <a href="https://www.raysul.me">Raysul Me</a>
 - <a href="https://shop.rangs.com.bd">Rangs</a>
 - <a href="https://faceme.com.bd">Faceme</a>
-- <a href="https://www.dmslbd.com/">Dmslbd</a>
-- <a href="https://szefy.com/">Szefy</a>
-- <a href="http://www.graphicreign.com/">Graphicreign</a>
-- <a href="https://www.glamifield.com/">Glamifield</a>
+- <a href="https://shop.rdmilk.com">Rdmilk</a>
+- <a href="https://daewoo.com.bd">Daewoo</a>
+- <a href="https://www.dmslbd.com">Dmslbd</a>
+- <a href="https://www.janomot.com">Janomot</a>
+- <a href="https://arthoniti.com">Arthoniti</a>
+- <a href="https://cumillattc.gov.bd">Cumillattc</a>
+- <a href="https://www.nagorikseba.com">Nagorikseba</a>
+- <a href="http://www.graphicreign.com">Graphicreign</a>
+- <a href="https://www.glamifield.com">Glamifield</a>
 
 📊 **My recent programming status:**
  
